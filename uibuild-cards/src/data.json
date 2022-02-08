@@ -1,0 +1,29 @@
+{
+  "datas": [
+    {
+      "name": "John Freeman",
+      "restaurant": "pizza thief",
+      "address": "2610 NW Vaughn St",
+      "city": " Portland",
+      "postal_code": "OR 97210",
+      "country": "United States"
+    },
+
+    {
+      "name": "Angela Sliders",
+      "restaurant": "max steaks",
+      "address": "3653 Germantown Ave",
+      "city": "Philadelphia",
+      "postal_code": "PA 19140",
+      "country": "United States"
+    },
+    {
+      "name": "Rita Lehigh",
+      "restaurant": "pizza ranch",
+      "address": "1327 Main St Ste. 6",
+      "city": "Billings Heights",
+      "postal_code": "MT 59105",
+      "country": "United States"
+    }
+  ]
+}
